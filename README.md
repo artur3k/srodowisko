@@ -16,5 +16,3 @@ printf("%i", tabela[i])
 
 return 0;
 }
-
-```c
