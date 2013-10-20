@@ -1,3 +1,7 @@
+#Rozwiązania
+
+Zadanie - kolejne potegi 2 nieprzekraczajace 2010
+
 ```c
 
 #include <stdio.h>
