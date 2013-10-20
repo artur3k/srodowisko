@@ -6,6 +6,8 @@ Zadanie 1
 #include <stdio.h>
 main(){
 
+/// ```sh ```c
+
 
 int i;
 int tabela[]={1,2,3,4,5,};
