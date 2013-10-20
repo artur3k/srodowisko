@@ -11,9 +11,6 @@ int main() {
     printf("\n%d\n",tabela[i] );
   }
 
-
-
-
   return 0;
 }  
  
