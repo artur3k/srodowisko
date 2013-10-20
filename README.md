@@ -2,7 +2,7 @@
 
 Zadanie 1
 
-'''c
+```c
 #include <stdio.h>
 main(){
 
@@ -17,4 +17,4 @@ printf("%i", tabela[i])
 return 0;
 }
 
-'''c
+```c
